@@ -101,20 +101,20 @@ export default function OffGridChargingPage() {
           <div className="space-y-6 text-slate-600 leading-relaxed mb-10">
             <AnimateOnScroll animation="fade-up">
               <p>
-                <span className="font-medium text-slate-900">I'm fascinated by how robotaxis will reshape transportation.</span> When you remove the driver, the cost per mile drops drastically.
+                <span className="font-medium text-slate-900">I&apos;m fascinated by how robotaxis will reshape transportation.</span> When you remove the driver, the cost per mile drops drastically.
                  Then the question becomes: How can we make the remaining variables cheaper?
               </p>
             </AnimateOnScroll>
             
             <AnimateOnScroll animation="fade-up" delay={100}>
               <p>
-                There's another massive cost: <span className="font-medium text-forest-600">energy.</span> For autonomous fleets running 20+ hours a day, electricity cost becomes a major variable.
+                There&apos;s another massive cost: <span className="font-medium text-forest-600">energy.</span> For autonomous fleets running 20+ hours a day, electricity cost becomes a major variable.
               </p>
             </AnimateOnScroll>
 
             <AnimateOnScroll animation="fade-up" delay={200}>
               <p>
-                When looking at California's energy prices, I realized more than half of the cost goes to taxes and grid infrastructure, not generation. The actual generation piece is relatively cheap.
+                When looking at California&apos;s energy prices, I realized more than half of the cost goes to taxes and grid infrastructure, not generation. The actual generation piece is relatively cheap.
               </p>
             </AnimateOnScroll>
 
@@ -700,10 +700,10 @@ export default function OffGridChargingPage() {
                 This was a <span className="font-medium text-slate-900">curiosity project</span>—an exploration into whether off-grid charging could be economically viable for autonomous fleets.
               </p>
               <p>
-                I'm new to the energy space, and this model doesn't include some real-world complexities like permitting, entitlement costs, or development fees. Those soft costs could certainly impact the economics.
+                I&apos;m new to the energy space, and this model doesn&apos;t include some real-world complexities like permitting, entitlement costs, or development fees. Those soft costs could certainly impact the economics.
               </p>
               <p>
-                But it's a start. As robotaxi fleets scale and utilization rates climb, bringing down the per-mile energy cost becomes critical. This is one potential solution worth exploring further as we navigate the transition to autonomous transportation.
+                But it&apos;s a start. As robotaxi fleets scale and utilization rates climb, bringing down the per-mile energy cost becomes critical. This is one potential solution worth exploring further as we navigate the transition to autonomous transportation.
               </p>
             </div>
           </AnimateOnScroll>

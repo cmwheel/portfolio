@@ -115,7 +115,7 @@ export default function ClaroCompsPage() {
             <AnimateOnScroll animation="fade-up">
               <div className="space-y-5 text-slate-600 leading-relaxed">
                 <p>
-                  <span className="font-medium text-slate-900">Summer 2025.</span> I'm interning at Stotan Industrial, and stretched with a lot of work. Live deals, memo preparations, market research and my most tedious tasks: <span className="font-semibold text-forest-600">data input</span>.
+                  <span className="font-medium text-slate-900">Summer 2025.</span> I&apos;m interning at Stotan Industrial, and stretched with a lot of work. Live deals, memo preparations, market research and my most tedious tasks: <span className="font-semibold text-forest-600">data input</span>.
                 </p>
                 <p>
                   Since Q2 Broker reports were coming out in a few weeks, I was motivated to find a way to automate this tedious task of transposing each data point into our internal spreadsheets.
@@ -292,7 +292,7 @@ export default function ClaroCompsPage() {
           <AnimateOnScroll animation="fade-up" delay={200}>
             <div className="bg-forest-50 p-6 rounded-xl border border-forest-200">
               <p className="text-sm text-slate-700 italic mb-2">
-                "Charlie, throw these PDF's into your Comp Bot, that thing makes this process so much easier"
+                &quot;Charlie, throw these PDF&apos;s into your Comp Bot, that thing makes this process so much easier&quot;
               </p>
               <p className="text-xs text-slate-500">– Analyst at Stotan</p>
             </div>

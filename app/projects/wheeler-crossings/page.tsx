@@ -257,7 +257,7 @@ export default function WheelerCrossingsPage() {
                 I spent days analyzing each Columbus submarket supply and demand factors. I talked to brokers. I talked to our market officer.
               </p>
               <p className="text-base text-slate-900 font-medium leading-relaxed">
-                Etna made perfect sense: a growing large-user demand (from I-70) and positioned to capture overflow from New Albany's datacenter boom, just 15 minutes north.
+                Etna made perfect sense: a growing large-user demand (from I-70) and positioned to capture overflow from New Albany&apos;s datacenter boom, just 15 minutes north.
               </p>
             </div>
           </AnimateOnScroll>
@@ -329,13 +329,13 @@ export default function WheelerCrossingsPage() {
           <AnimateOnScroll animation="fade-up" delay={300}>
             <div className="bg-white p-6 rounded-2xl border border-slate-100 space-y-3">
               <p className="text-base text-slate-700 leading-relaxed">
-                I found Kyle's phone number through public records and cold called him.
+                I found Kyle&apos;s phone number through public records and cold called him.
               </p>
               <p className="text-base text-slate-700 leading-relaxed">
-                He'd recently inherited the farm and was open to offers — looking to get out of the farming business.
+                He&apos;d recently inherited the farm and was open to offers — looking to get out of the farming business.
               </p>
               <p className="text-base text-slate-900 font-medium leading-relaxed">
-                Off-market. Through direct outreach. That's how this deal came together.
+                Off-market. Through direct outreach. That&apos;s how this deal came together.
               </p>
             </div>
           </AnimateOnScroll>
@@ -504,7 +504,7 @@ export default function WheelerCrossingsPage() {
             <h2 className="text-2xl md:text-3xl font-serif font-medium mb-3 text-slate-900">
               Return Sensitivity
             </h2>
-            <h3 className="text-lg text-slate-500 mb-10 font-light">The "Money Slide"</h3>
+            <h3 className="text-lg text-slate-500 mb-10 font-light">The &quot;Money Slide&quot;</h3>
           </AnimateOnScroll>
 
           <AnimateOnScroll animation="fade-in">
@@ -596,7 +596,7 @@ export default function WheelerCrossingsPage() {
                 Explore More Projects
               </h2>
               <p className="text-base text-slate-300 max-w-2xl mx-auto">
-                Check out other work I've built, from AI-powered tools to energy economics analysis.
+                Check out other work I&apos;ve built, from AI-powered tools to energy economics analysis.
               </p>
             </div>
           </AnimateOnScroll>
