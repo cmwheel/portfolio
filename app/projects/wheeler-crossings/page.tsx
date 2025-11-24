@@ -73,7 +73,7 @@ export default function WheelerCrossingsPage() {
             <AnimateOnScroll animation="scale-up" delay={200}>
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl bg-slate-100 rotate-2 hover:rotate-0 transition-transform duration-700 ease-out">
                 <Image
-                  src="/images/wheeler-crossings/photos/project-summary.jpg"
+                  src="/images/logistics-project.jpg"
                   alt="Wheeler Crossings Project"
                   fill
                   className="object-cover"
