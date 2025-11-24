@@ -194,9 +194,7 @@ export default function ClaroCompsPage() {
           <AnimateOnScroll animation="fade-up" delay={200}>
             <div className="grid md:grid-cols-2 gap-8 mt-12 max-w-5xl mx-auto">
               <div>
-                <p className="text-base text-slate-700 mb-4 font-medium">
-                  Upload your Excel template once to establish your exact column structure and formatting preferences.
-                </p>
+                <p className="text-sm font-medium text-slate-700 mb-3 text-center">Before</p>
                 <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
                   <Image
                     src="/images/claro-comps/template-upload.png"
@@ -207,9 +205,7 @@ export default function ClaroCompsPage() {
                 </div>
               </div>
               <div>
-                <p className="text-base text-slate-700 mb-4 font-medium">
-                  Drop any PDF and get perfectly structured data in your exact format in seconds.
-                </p>
+                <p className="text-sm font-medium text-slate-700 mb-3 text-center">After</p>
                 <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-lg bg-slate-50">
                   <Image
                     src="/images/claro-comps/results-screen.png"
